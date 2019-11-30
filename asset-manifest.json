@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bookstore/static/css/main.8eefbce1.chunk.css",
+    "main.js": "/bookstore/static/js/main.2ab76053.chunk.js",
+    "main.js.map": "/bookstore/static/js/main.2ab76053.chunk.js.map",
+    "runtime-main.js": "/bookstore/static/js/runtime-main.030d059f.js",
+    "runtime-main.js.map": "/bookstore/static/js/runtime-main.030d059f.js.map",
+    "static/js/2.a2966d89.chunk.js": "/bookstore/static/js/2.a2966d89.chunk.js",
+    "static/js/2.a2966d89.chunk.js.map": "/bookstore/static/js/2.a2966d89.chunk.js.map",
+    "index.html": "/bookstore/index.html",
+    "precache-manifest.ee52a1fefcd2307562af5b40b8800d63.js": "/bookstore/precache-manifest.ee52a1fefcd2307562af5b40b8800d63.js",
+    "service-worker.js": "/bookstore/service-worker.js",
+    "static/css/main.8eefbce1.chunk.css.map": "/bookstore/static/css/main.8eefbce1.chunk.css.map",
+    "static/media/7k.jpg": "/bookstore/static/media/7k.61e267f3.jpg",
+    "static/media/92.jpg": "/bookstore/static/media/92.0300effb.jpg",
+    "static/media/App.css": "/bookstore/static/media/bookcover1.8190a242.jpg",
+    "static/media/lj.jpg": "/bookstore/static/media/lj.b4c9d86a.jpg",
+    "static/media/loading-arrow.gif": "/bookstore/static/media/loading-arrow.e9ea7394.gif",
+    "static/media/mn.jpg": "/bookstore/static/media/mn.5bffb506.jpg",
+    "static/media/novell222.jpg": "/bookstore/static/media/novell222.7c353a08.jpg",
+    "static/media/room-1.jpeg": "/bookstore/static/media/room-1.e928a5c4.jpeg",
+    "static/media/rrr.jpg": "/bookstore/static/media/rrr.f8dd4092.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.030d059f.js",
+    "static/js/2.a2966d89.chunk.js",
+    "static/css/main.8eefbce1.chunk.css",
+    "static/js/main.2ab76053.chunk.js"
+  ]
+}
